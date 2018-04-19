@@ -1,0 +1,16 @@
+/* page/detail/detail.wxss */
+.movieBox{
+  display: flex;
+  flex-direction: column;
+  padding: 30px 20px;
+  font-size: 28rpx;
+  text-indent: 56rpx;
+  text-align: justify;
+}
+.movieBasic{
+  padding-left: 50px;
+}
+.movieImg{
+  width: 50%;
+  margin: 20px 25%;
+}

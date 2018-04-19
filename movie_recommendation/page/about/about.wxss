@@ -1,0 +1,24 @@
+/* page/about/about.wxss */
+page{
+  height: 100%;
+}
+.page-body-info{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+  height: 80vh;
+}
+.userinfo-avatar{
+  width: 250rpx;
+  height: 250rpx;
+  border: 2px solid orange;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.source{
+  font-size: 28rpx;
+  color: #999;
+  text-align: center;
+  line-height: 1.8;
+}

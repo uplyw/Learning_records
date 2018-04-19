@@ -1,0 +1,12 @@
+<!--page/about/about.wxml-->
+
+<view class="page-body-info">
+  <text>关于小程序</text>
+  <!-- <image class="userinfo-avatar" src="{{userInfo.avatarUrl}}"></image>
+  <text class="userinfo-nickname">{{userInfo.nickName}}</text> -->
+  <image class="userinfo-avatar" src="../images/headImg.jpg"></image>
+  <text class="userinfo-nickname">uplyw</text>
+</view>
+<view class='source'>根据哔哩哔哩</view>
+<view class='source'>https://www.bilibili.com/video/av22004522</view>
+<view class='source'>学习整理</view>

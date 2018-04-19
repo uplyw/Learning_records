@@ -1,0 +1,11 @@
+<!--page/detail/detail.wxml-->
+<!-- <text>page/detail/detail.wxml</text> -->
+<view class='movieBox'>
+  <text class='movieBasic'>片名：{{movies.title}}</text>
+  <text class='movieBasic'>评分：{{movies.rating.average}}</text>
+  <text class='movieBasic'>国家：{{movies.countries}}</text>
+  <text class='movieBasic'>年份：{{movies.year}}</text>
+  <!-- <text>年份：{{movieImages}}</text> -->
+  <image class='movieImg' src='{{movies.images.large}}'></image>
+  <text class='movieSummary'>{{movies.summary}}</text>
+</view>

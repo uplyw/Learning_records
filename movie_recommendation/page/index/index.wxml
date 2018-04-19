@@ -1,0 +1,13 @@
+<!--page/index/index.wxml-->
+<!-- <text>page/index/index.wxml</text> -->
+<swiper indicator-dots='true' class='swiperBox' current='{{currentIndex}}'>
+  <swiper-item  wx:for="{{movieList}}">
+    <view class='movieBox' bindtap='f1' data-movie-id="{{item.id}}">
+      <text>第{{index + 1}}周：{{item.movieName}}</text>
+      <image src='{{item.movieImg}}' class='movieImg'></image>
+      <text>“ {{item.movieEvaluate}}”</text>
+      <text wx:if="{{item.recommend}}" class='recommend'>强烈推荐</text>
+      <text class="returnTswk" wx:if="{{index < (movieList.length - 1)}}" catchtap="f0" >返回本周</text>
+    </view>
+  </swiper-item>
+</swiper>

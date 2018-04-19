@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "page/index/index",
+    "page/about/about",
+    "page/detail/detail"
+  ],
+  "tabBar": {
+    "list": [{
+      "pagePath": "page/index/index",
+      "text": "首页",
+      "iconPath": "page/images/icon/home.png",
+      "selectedIconPath": "page/images/icon/selectedHome.png"
+    },{
+      "pagePath": "page/about/about",
+      "text": "关于",
+      "iconPath": "page/images/icon/about.png",
+      "selectedIconPath": "page/images/icon/selectedAbout.png"
+    }],
+    "color": "#515151",
+    "selectedColor": "#ffa500"
+  }
+}
