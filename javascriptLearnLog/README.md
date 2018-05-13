@@ -13,3 +13,8 @@
 8. [js笔记八之if-else if-else判断语句,三元运算符,switch case判断语句](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%85%AB%E4%B9%8Bif-else%20if-else%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5%2C%E4%B8%89%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6%2Cswitch%20case%E5%88%A4%E6%96%AD%E8%AF%AD%E5%8F%A5.md)
 9. [js笔记九之for,for-in循环](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B9%9D%E4%B9%8Bfor%2Cfor-in%E5%BE%AA%E7%8E%AF.md)
 10. [js笔记十之for循环练习](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%B9%8Bfor%E5%BE%AA%E7%8E%AF%E7%BB%83%E4%B9%A0.md)
+11. [js笔记十一之数据类型转换](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%B8%80%E4%B9%8B%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+12. [js笔记十二之Math数学函数](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%BA%8C%E4%B9%8BMath%E6%95%B0%E5%AD%A6%E5%87%BD%E6%95%B0.md)
+13. [js笔记十三之字符串及常用方法](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%B8%89%E4%B9%8B%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
+14. [js笔记十四之Math和字符串方法应用](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E5%9B%9B%E4%B9%8BMath%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%96%B9%E6%B3%95%E5%BA%94%E7%94%A8.md)
+15. [js笔记十五之DOM基础-获取元素的方法](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%BA%94%E4%B9%8BDOM%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%8F%96%E5%85%83%E7%B4%A0%E7%9A%84%E6%96%B9%E6%B3%95.md)
