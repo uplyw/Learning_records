@@ -18,3 +18,8 @@
 13. [js笔记十三之字符串及常用方法](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%B8%89%E4%B9%8B%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8F%8A%E5%B8%B8%E7%94%A8%E6%96%B9%E6%B3%95.md)
 14. [js笔记十四之Math和字符串方法应用](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E5%9B%9B%E4%B9%8BMath%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%96%B9%E6%B3%95%E5%BA%94%E7%94%A8.md)
 15. [js笔记十五之DOM基础-获取元素的方法](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%BA%94%E4%B9%8BDOM%E5%9F%BA%E7%A1%80-%E8%8E%B7%E5%8F%96%E5%85%83%E7%B4%A0%E7%9A%84%E6%96%B9%E6%B3%95.md)
+16. [js笔记十六之DOM基础-节点](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E5%85%AD%E4%B9%8BDOM%E5%9F%BA%E7%A1%80-%E8%8A%82%E7%82%B9.md)
+17. [js笔记十七之DOM操作-增删改](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%B8%83%E4%B9%8BDOM%E6%93%8D%E4%BD%9C-%E5%A2%9E%E5%88%A0%E6%94%B9.md)
+18. [js笔记十八之Date日期](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E5%85%AB%E4%B9%8BDate%E6%97%A5%E6%9C%9F.md)
+19. [js笔记十九之Array数组的增删改](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E5%8D%81%E4%B9%9D%E4%B9%8BArray%E6%95%B0%E7%BB%84%E7%9A%84%E5%A2%9E%E5%88%A0%E6%94%B9.md)
+20. [js笔记二十之Array数组的查询,拼接,转字符串,排列(序)](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%BA%8C%E5%8D%81%E4%B9%8BArray%E6%95%B0%E7%BB%84%E7%9A%84%E6%9F%A5%E8%AF%A2%2C%E6%8B%BC%E6%8E%A5%2C%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%2C%E6%8E%92%E5%88%97(%E5%BA%8F).md)
