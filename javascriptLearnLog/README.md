@@ -38,7 +38,7 @@
 33. [js笔记三十三之原型链模式基础](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E4%B8%89%E4%B9%8B%E5%8E%9F%E5%9E%8B%E9%93%BE%E6%A8%A1%E5%BC%8F%E5%9F%BA%E7%A1%80.md)  
 34. [js笔记三十四之原型链模式扩展(1)](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E5%9B%9B%E4%B9%8B%E5%8E%9F%E5%9E%8B%E9%93%BE%E6%A8%A1%E5%BC%8F%E6%89%A9%E5%B1%95(1).md)  
 35. [js笔记三十五之原型链模式扩展(2)](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E4%BA%94%E4%B9%8B%E5%8E%9F%E5%9E%8B%E9%93%BE%E6%A8%A1%E5%BC%8F%E6%89%A9%E5%B1%95(2).md)  
-36. [js笔记三十六之原型链模式扩展(3).md](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E5%85%AD%E4%B9%8B%E5%8E%9F%E5%9E%8B%E9%93%BE%E6%A8%A1%E5%BC%8F%E6%89%A9%E5%B1%95(3).md)  
+36. [js笔记三十六之原型链模式扩展(3)](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E5%85%AD%E4%B9%8B%E5%8E%9F%E5%9E%8B%E9%93%BE%E6%A8%A1%E5%BC%8F%E6%89%A9%E5%B1%95(3).md)  
 37. [js笔记三十七之函数的三种角色](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E4%B8%83%E4%B9%8B%E5%87%BD%E6%95%B0%E7%9A%84%E4%B8%89%E7%A7%8D%E8%A7%92%E8%89%B2.md)  
 38. [js笔记三十八之call方法深入](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E5%85%AB%E4%B9%8Bcall%E6%96%B9%E6%B3%95%E6%B7%B1%E5%85%A5.md)  
 39. [js笔记三十九之call,apply和bind的区别](https://github.com/uplyw/Learning_records/blob/master/javascriptLearnLog/js%E7%AC%94%E8%AE%B0%E4%B8%89%E5%8D%81%E4%B9%9D%E4%B9%8Bcall%2Capply%E5%92%8Cbind%E7%9A%84%E5%8C%BA%E5%88%AB.md)  
