@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>弹出input的输入</title>
+</head>
+<body>
+	<input type="text">
+	<input type="text">
+	<button id="btn">点击</button>
+	<script type="text/javascript">
+		var oInput = document.getElementsByTagName('input'),
+			btn = document.getElementById('btn');
+			btn.onclick = function(){
+				myval(oInput[0],oInput[1]);
+			}
+		function myval(a,b){
+			alert(a.value+b.value)
+		}
+	</script>
+</body>
+</html>

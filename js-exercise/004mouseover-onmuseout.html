@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>鼠标移入移出改变样式</title>
+	<style type="text/css">
+		#box{
+			width: 100px;
+			height: 100px;
+			background: #0090ff;
+		}
+	</style>
+</head>
+<body>
+	<div id="box"></div>
+	<script type="text/javascript">
+		var oBox = document.getElementById('box');
+		oBox.onmouseover = function(){
+			oBox.style.background = '#ff0900'
+		}
+		oBox.onmouseout = function(){
+			oBox.style.cssText = ''
+		}
+	</script>
+</body>
+</html>

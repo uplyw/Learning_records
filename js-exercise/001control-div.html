@@ -1,17 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>控制div</title>
+    <style type="text/css">
+    .box {
+        width: 200px;
+        height: 200px;
+        background: #0090ff;
+    }
+    </style>
 </head>
+
 <body>
     <div class="box" id="box"></div>
-    <button class="btn" id="btn1"></button>
-    <button class="btn" id="btn2"></button>
-    <button class="btn" id="btn3"></button>
-    <button class="btn" id="btn4"></button>
-    <button class="btn" id="btn5"></button>
+    <button class="btn" id="btn1">加宽</button>
+    <button class="btn" id="btn2">加高</button>
+    <button class="btn" id="btn3">隐藏</button>
+    <button class="btn" id="btn4">变色</button>
+    <button class="btn" id="btn5">还原</button>
+    <!-- <script type="text/javascript">
+    	var box = document.getElementById('box'),
+    		btn1 = document.getElementById('btn1'),
+	    	btn2 = document.getElementById('btn2'),
+	    	btn3 = document.getElementById('btn3'),
+	    	btn4 = document.getElementById('btn4'),
+	    	btn5 = document.getElementById('btn5');
+	    btn1.onclick = function(){
+	    	box.style.width = '300px'
+	    }
+	    btn2.onclick = function(){
+	    	box.style.height = '300px'
+	    }
+	    btn3.onclick = function(){
+	    	box.style.display = 'none'
+	    }
+	    btn4.onclick = function(){
+	    	box.style.background = '#ff0900'
+	    }
+	    btn5.onclick = function(){
+	    	box.style.cssText = ''
+	    }
+    </script> -->
+    <script type="text/javascript">
+	    var changeStyle = function(ele, attr, val) {
+	        ele.style[attr] = val;
+	    }
+	    var oBtn = document.getElementsByTagName('button'),
+	        oBox = document.getElementById('box'),
+	        oAtt = ['width', 'height', 'display', 'background', 'display'],
+	        oVal = ['300px', '300px', 'none', '#ff0900', 'black'];
+	    for (var i = 0; i < oBtn.length; i++) {
+	        oBtn[i].index = i;
+	        oBtn[i].onclick = function() {
+	            this.index == oBtn.length - 1 && (oBox.style.cssText = '')
+	            changeStyle(oBox, oAtt[this.index], oVal[this.index])
+	        }
+	    }
+    </script>
 </body>
+
 </html>
