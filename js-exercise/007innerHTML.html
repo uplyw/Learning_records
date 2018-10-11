@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>获取innerHTML里的内容</title>
+    <style>
+        p{
+            width: 100px;
+            line-height: 2em;
+            border: 1px solid #ccc;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="box">
+        <p>11<span>123</span>1</p>
+        <p>22<span>123</span>2</p>
+        <p>33<span>123</span>3</p>
+        <p>44<span>123</span>4</p>
+        <p>55<span>123</span>5</p>
+    </div>
+    <script>
+        window.onload = function(){
+            var oBox = document.getElementById('box');
+            var oBoxP = oBox.getElementsByTagName('p')
+            for(var i=0;i<oBoxP.length;i++){
+                oBoxP[i].onclick = function(){
+                    alert(this.innerHTML);
+                }
+            }
+        }
+    </script>
+</body>
+</html>
